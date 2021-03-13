@@ -42,3 +42,11 @@ console.log(number) // 15
 divideBy3()
 
 console.log(number) // 5
+
+function increment(n) {
+  
+}
+
+function decrement (n) {
+  
+}
