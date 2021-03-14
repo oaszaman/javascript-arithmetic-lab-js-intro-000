@@ -13,7 +13,7 @@ function multiply() {
 function divide() {
 
 }
-/*
+
 var number = 10
 
 function add5() {
@@ -42,7 +42,7 @@ console.log(number) // 15
 divideBy3()
 
 console.log(number) // 5
-*/
+
 
 function increment(n) {
  n += 1
@@ -51,3 +51,5 @@ function increment(n) {
 function decrement (n) {
 n -= 1
 }
+
+parseInt('2', 10)
