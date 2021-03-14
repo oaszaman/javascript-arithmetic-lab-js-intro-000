@@ -29,10 +29,10 @@ function parseInt() {
 function parseFloat() {
 
 }
-function makeInt(string) {
+function makeInt(n) {
 return parseInt(n, 10);
 }
 
-function preserveDecimal(string) {
+function preserveDecimal(n) {
 return parseFloat(n);
 }
