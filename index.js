@@ -30,7 +30,7 @@ function parseFloat() {
 
 }
 function makeInt(string) {
-return makeInt(parseInt());
+return parseInt(10);
 }
 
 function preserveDecimal(string) {
